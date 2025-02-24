@@ -13,3 +13,7 @@
 
 #### <br>
 
+#### 자바프로그래밍 사전 설문조사 링크 
+<https://docs.google.com/forms/d/e/1FAIpQLSfDX1d5pF8TofeVKmtlNm4aYyILdGgBIjmfoFF8x0qLx0gEfg/viewform?usp=header>
+
+<br>
